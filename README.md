@@ -1,6 +1,5 @@
 1. Users can fund with ETH based on USD fee
-2. Only owner can withdraw
-3. The lottery will select a random winner 
+2. Only owner can withdraw funds
 
 How do we want to test this?
 
